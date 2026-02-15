@@ -8,3 +8,7 @@ The mock phishing pages are designed to look like common phishing scenarios so u
 The project uses only HTML and CSS and does not include any backend systems or data collection. No real credentials or sensitive information are collected or stored at any time.
 
 All templates in this repository are used only with explicit authorization for educational and defensive purposes. They are not intended for real phishing attacks or unauthorized testing.
+
+# Examples:
+
+![image alt](https://github.com/I3ones/Infosec-Projects/blob/587f9535d17e72f3cb496e43da8ea5426faa4a5f/Box.jpg)
